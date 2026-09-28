@@ -2,12 +2,30 @@
 
 I'm Ayaan, a Computer Science student at the University of Illinois Urbana-Champaign.
 
-I like building things from scratch and figuring out how to make them useful in the real world. Lately, I've been especially interested in backend systems and AI products.
+I like building things from scratch, especially backend systems and AI products. The fun part for me is turning an idea into something people can actually use.
 
-My projects tend to go in a few different directions. I've built [AstraExchange](https://github.com/recalculator/AstraExchange), a C++ order-matching engine; [JavaDB](https://github.com/recalculator/JavaDB), a database engine; and [Lexora](https://github.com/recalculator/lexora), an AI tool for analyzing contracts.
+### What I'm into 🚀
 
-I work mostly with Python, C++, Java, and TypeScript, along with tools like React, FastAPI, PostgreSQL, and Docker. I care less about collecting frameworks and more about choosing the right ones to get something working well.
+- ⚙️ Building fast, reliable software
+- 🤖 Finding useful ways to put AI into real products
+- 💡 Taking projects from “what if?” to a working version
 
-Outside of code, I'm originally from the Bay Area and now spend most of my time in Champaign. I'm always up for talking about interesting ideas or projects.
+### A few things I've built 🧑‍💻
 
-You can find more of my work at [ayaanchawla.me](https://ayaanchawla.me/) or reach me at [ayaan.chawla@gmail.com](mailto:ayaan.chawla@gmail.com).
+- **[AstraExchange](https://github.com/recalculator/AstraExchange)** — A C++ order-matching engine built for speed.
+- **[JavaDB](https://github.com/recalculator/JavaDB)** — A database engine with indexing, write-ahead logging, and crash recovery.
+- **[Lexora](https://github.com/recalculator/lexora)** — An AI app that helps people spot risks in contracts and prepare for negotiations.
+- **[ADS-B Flight Pipeline](https://github.com/recalculator/adsb-flight-pipeline)** — Live aircraft tracking, from radio signals to a dashboard.
+
+### Tools I use 🛠️
+
+- **Languages:** Python, C++, Java, TypeScript
+- **Other tools:** React, FastAPI, PostgreSQL, Docker, PyTorch
+
+### A little more about me 🌎
+
+- Originally from the Bay Area; now at UIUC in Champaign.
+- I enjoy figuring out *what's worth building* as much as figuring out how to build it.
+- Always happy to talk about an interesting idea or project.
+
+📫 **Find me:** [Website](https://ayaanchawla.me/) · [Email](mailto:ayaan.chawla@gmail.com)
