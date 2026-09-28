@@ -1,4 +1,4 @@
-![Hi, I'm Ayaan — an engineer in the making](banner.png)
+![Hi, I'm Ayaan — an engineer in the making](ayaan.png)
 
 I'm a Computer Science student at UIUC who likes building fast systems and useful AI products. I enjoy taking an idea from an early prototype to something people can actually use.
 
