@@ -1,14 +1,19 @@
-# Hey, I'm Ayaan 👋
+![Hi, I'm Ayaan — an engineer in the making](banner.png)
 
-I'm a Computer Science student at the University of Illinois Urbana-Champaign. I like building fast systems and AI products that people can actually use—from database engines and real-time data pipelines to tools that turn messy information into something useful.
+I'm a Computer Science student at UIUC who likes building fast systems and useful AI products. I enjoy taking an idea from an early prototype to something people can actually use.
 
-### A few things I've built
+### 🚀 Projects
 
-- **[AstraExchange](https://github.com/recalculator/AstraExchange)** — A C++ order-matching engine built around price-time priority and low-latency execution.
+- **[AstraExchange](https://github.com/recalculator/AstraExchange)** — A C++ order-matching engine built for speed.
 - **[JavaDB](https://github.com/recalculator/JavaDB)** — A database engine with a B+ tree index, write-ahead logging, and crash recovery.
-- **[Lexora](https://github.com/recalculator/lexora)** — A contract analysis app that flags risky clauses and helps draft negotiation playbooks and redlines.
-- **[ADS-B Flight Pipeline](https://github.com/recalculator/adsb-flight-pipeline)** — A real-time aircraft tracking pipeline, from radio signals to a live map.
+- **[Lexora](https://github.com/recalculator/lexora)** — A contract analysis app that flags risky clauses and suggests negotiation strategies.
+- **[ADS-B Flight Pipeline](https://github.com/recalculator/adsb-flight-pipeline)** — Live aircraft tracking from radio signals to a real-time dashboard.
 
-I enjoy the whole process: figuring out what matters, getting the first version working, and making it faster and more reliable from there.
+### 🛠️ What I work with
 
-**More about me:** [ayaanchawla.me](https://ayaanchawla.me/) · [Email](mailto:ayaan.chawla@gmail.com)
+**Languages:** Python, C++, Java, TypeScript  
+**Tools:** React, Next.js, FastAPI, PostgreSQL, Docker, PyTorch
+
+### 📫 Find me
+
+[Website](https://ayaanchawla.me/) · [Email](mailto:ayaan.chawla@gmail.com)
