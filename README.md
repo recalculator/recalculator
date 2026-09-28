@@ -1,19 +1,13 @@
-![Hi, I'm Ayaan — an engineer in the making](ayaan_banner.png)
+## Hey there! 👋
 
-I'm a Computer Science student at UIUC who likes building fast systems and useful AI products. I enjoy taking an idea from an early prototype to something people can actually use.
+I'm Ayaan, a Computer Science student at the University of Illinois Urbana-Champaign.
 
-### 🚀 Projects
+I like building things from scratch and figuring out how to make them useful in the real world. Lately, I've been especially interested in backend systems and AI products.
 
-- **[AstraExchange](https://github.com/recalculator/AstraExchange)** — A C++ order-matching engine built for speed.
-- **[JavaDB](https://github.com/recalculator/JavaDB)** — A database engine with a B+ tree index, write-ahead logging, and crash recovery.
-- **[Lexora](https://github.com/recalculator/lexora)** — A contract analysis app that flags risky clauses and suggests negotiation strategies.
-- **[ADS-B Flight Pipeline](https://github.com/recalculator/adsb-flight-pipeline)** — Live aircraft tracking from radio signals to a real-time dashboard.
+My projects tend to go in a few different directions. I've built [AstraExchange](https://github.com/recalculator/AstraExchange), a C++ order-matching engine; [JavaDB](https://github.com/recalculator/JavaDB), a database engine; and [Lexora](https://github.com/recalculator/lexora), an AI tool for analyzing contracts.
 
-### 🛠️ What I work with
+I work mostly with Python, C++, Java, and TypeScript, along with tools like React, FastAPI, PostgreSQL, and Docker. I care less about collecting frameworks and more about choosing the right ones to get something working well.
 
-**Languages:** Python, C++, Java, TypeScript  
-**Tools:** React, Next.js, FastAPI, PostgreSQL, Docker, PyTorch
+Outside of code, I'm originally from the Bay Area and now spend most of my time in Champaign. I'm always up for talking about interesting ideas or projects.
 
-### 📫 Find me
-
-[Website](https://ayaanchawla.me/) · [Email](mailto:ayaan.chawla@gmail.com)
+You can find more of my work at [ayaanchawla.me](https://ayaanchawla.me/) or reach me at [ayaan.chawla@gmail.com](mailto:ayaan.chawla@gmail.com).
